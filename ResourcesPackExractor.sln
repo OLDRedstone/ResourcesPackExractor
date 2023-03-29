@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ResourcePackExractor", "ResourcesPackExractor\ResourcePackExractor.vbproj", "{8CCEFCEA-8B9E-47F0-B91F-B25AB87D9AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCEFCEA-8B9E-47F0-B91F-B25AB87D9AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCEFCEA-8B9E-47F0-B91F-B25AB87D9AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCEFCEA-8B9E-47F0-B91F-B25AB87D9AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCEFCEA-8B9E-47F0-B91F-B25AB87D9AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3FCFE2-1085-40A9-B0C1-8440DDAD88BA}
+	EndGlobalSection
+EndGlobal
