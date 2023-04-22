@@ -27,7 +27,7 @@
                 End
             End If
             My.Computer.FileSystem.CreateDirectory(
-                $"{Application.StartupPath}\{IO.Path.GetDirectoryName(FilePath)}")
+                $"{Application.StartupPath}Output\{IO.Path.GetDirectoryName(FilePath)}")
             IO.File.Copy(
                 $"{IO.Directory.GetParent(SourceFilePath).Parent.FullName}\Objects\{Mid(Hex, 1, 2)}\{Hex}",
                 $"{Application.StartupPath}Output\{FilePath}",
